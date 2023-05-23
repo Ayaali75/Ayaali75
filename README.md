@@ -1,7 +1,7 @@
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://Ayaali75.io)
 <h1 align="center">Hi 👋, I'm Aya Ali</h1>
 <h3 align="center">Frontend Developer || UI UX Designer</h3>
-<img align="right" alt="coding" width="200" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
+<img align="right" alt="coding" width="150" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaali75&label=Profile%20views&color=0e75b6&style=flat" alt="ayaali75" /> </p>
 
